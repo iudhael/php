@@ -1,0 +1,92 @@
+
+    .wrapperr .carousel{
+        width: 400px ;
+        
+        max-height:500px ;
+        margin: auto;
+        _padding: 0 30px;
+        margin-bottom:90px;
+    }
+    
+    
+    
+    .carousel .carde{
+        border-radius: 10px 10px 0px 0px ;
+    
+        text-align: center;
+        
+    
+        _border: 5px blue solid;
+    
+    }
+    
+    
+    
+    
+    
+    .carousel .carde{
+       background: #39b54a ;
+       height: 100% ;
+       width: 100%;
+       
+    }
+    
+    
+    
+    
+    
+    .carousel a{
+        text-decoration: none;
+    
+    
+    }
+    
+    
+    
+    
+    .image2{
+        width: 100%;
+        height: 100%;
+        border-radius: 10px 10px 0px 0px ;
+    
+    
+    }
+
+    .h3{
+
+        color: white;
+       
+       
+    }
+    .h3:hover {
+       
+           color:black;
+           text-color:black;
+       }
+       
+    .image2_div{
+           width: 100%;
+           height: 380px;
+           _border: 1px blue solid;
+       }
+       
+       
+    .titre{
+     
+           margin-top: 40px;
+           _border: 1px blue solid;
+           margin-bottom:40px;
+           
+           padding:10px;
+           
+       }
+       .titre h3{
+     
+        overflow:hidden;
+        word-wrap: break-word;
+        
+    }
+                   
+    
+    
+    
